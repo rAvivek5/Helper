@@ -1,0 +1,44 @@
+.pop {
+  top: 20%;
+  position: fixed;
+  justify-content: center;
+  left: 25%;
+  height: max-content;
+  width: 50%;
+  background-color: rgb(164, 210, 255);
+  z-index: 1;
+  line-height: 5px;
+}
+
+.nom {
+  margin-bottom: 30px;
+}
+
+.dett {
+  margin-left: 20px;
+}
+.txt1 {
+  outline: none;
+  margin-right: 30px;
+  width: 225px;
+  border: 1px solid black;
+  padding: 10px 10px;
+  margin-bottom: 20px;
+}
+.txt3 {
+  margin-bottom: 20px;
+  outline: none;
+  width: 500px;
+  border: 1px solid black;
+  padding: 10px 10px;
+}
+
+.txt2 {
+  width: 220px;
+  outline: none;
+  border: 1px solid black;
+  padding: 10px 10px;
+}
+.call {
+  margin-bottom: 10px;
+}

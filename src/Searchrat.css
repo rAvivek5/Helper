@@ -1,0 +1,55 @@
+.searchplasma{
+    height: 130px;
+    background-color: white;
+    margin-top: 5px;
+  
+  }
+  
+  .searchbar{
+    width: 98%;
+    margin:auto;
+
+  
+  }
+
+  .searchpla{
+      width: 8%;
+      margin: auto;
+      margin-top: 20px;
+      text-align: center;
+      background-color: green;
+      color: white;
+      font-weight: 400;
+
+  }
+  
+  .searchfield{
+    margin-top: 10px;
+    width: 99%;
+    height: 2.8rem;
+    outline: none;
+    padding: 0 3.5rem 0 1.5rem;
+    font-size: 1rem;
+    border-style: none;
+    border: 1.5px solid gray ;
+    background: #eeeded;
+    border-radius: 20px;
+    
+  
+  }
+
+  .rat{
+    margin-top: 20px;
+  }
+  
+  
+  
+  
+  
+ 
+  
+
+  
+  
+  
+  

@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+.hospital {
+  margin-top: 2px;
+}
+.hospital_search {
+  height: 220px;
+  background-color: white;
+  margin-top: 2px;
+  /* position: sticky;
+  top: 0;
+  z-index: 100; */
+}
+.hospital_searchbar {
+  width: 98%;
+  margin: auto;
+}
+
+.hospitalinfo {
+  font-family: 'Varela Round', sans-serif;
+  width: 94%;
+  margin: auto;
+  background-color: rgba(255, 228, 196, 0);
+  min-height: 280px;
+  height: max-content;
+  margin-top: 10px;
+}
+
+.line1 {
+  line-height: 40px;
+  font-size: 15px;
+}
+
+.searchpla {
+  cursor: pointer;
+  min-width: max-content;
+}
+
+.nodata {
+  font-family: 'Varela Round', sans-serif;
+  text-align: center;
+  color: red;
+  background-color: white;
+}
+
+.namefilter {
+  cursor: pointer;
+}
+
+.clearfilter {
+  cursor: pointer;
+}
+.hospital_filter {
+  display: flex;
+  justify-content: space-evenly;
+}
+.hospital_filter_all {
+  /* display: flex;
+    justify-content:space-around; */
+  display: flex;
+  justify-content: space-around;
+}
+.hospital_namefilter {
+  margin: 20px;
+  font-size: 15px;
+  font-weight: 800;
+  padding: 10px;
+  cursor: pointer;
+}
+.hospital_cf {
+  /* background: red; */
+  color: red;
+  width: 150px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 800;
+  vertical-align: middle;
+  margin: auto;
+  cursor: pointer;
+  border: none;
+  /* border: 1px solid rgb(0, 5, 26); */
+}
+.filter_g_p {
+  margin-left: 20px;
+}
+.hospital_filter_g_p {
+  display: flex;
+  justify-content: flex-start;
+}
+.hospital_applyFilter {
+  /* background: green; */
+  color: green;
+  width: 150px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 800;
+  vertical-align: middle;
+  margin: auto;
+  cursor: pointer;
+  border: none;
+  /* border: 1px solid rgb(0, 5, 26); */
+}
+.applyfilteraligncenter {
+  display: flex;
+  justify-content: center;
+}
+
+.displaymes {
+  text-align: center;
+  vertical-align: bottom;
+}

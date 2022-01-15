@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+.nav_img {
+  margin: 10px;
+  height: 50px;
+  width: 100px;
+  border-radius: 20px;
+}
+.nav_photo {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2px;
+  padding: 0px 20px;
+  height: 60px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.navbar {
+  font-family: 'Varela Round', sans-serif;
+  background-color: white;
+  padding: 0 20px;
+  height: 70px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+h4 {
+  color: rgb(0, 48, 0);
+  font-size: 20px;
+}
+
+.info {
+  line-height: 0.7px;
+}
+
+p {
+  font-size: 10px;
+}
+
+.nav_button {
+  font-family: 'Varela Round', sans-serif;
+  padding: 0px 8px;
+  height: 30px;
+  border: 1px solid rgba(133, 0, 0, 0.8);
+  background-color: rgba(7, 0, 31, 0.8);
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+}
+.nav_list {
+  display: flex;
+  text-decoration: none;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.nav_mail_button {
+  margin-top: 2px;
+  color: rgb(14, 117, 0);
+  /* border: 1px solid rgba(0, 128, 0, 0.8);
+    padding:2px 4px;
+    background-color: rgba(0, 128, 0, 0.8);
+    border-radius: 50%;  */
+}

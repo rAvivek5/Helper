@@ -1,0 +1,111 @@
+
+
+.page{
+
+    font-family: 'Varela Round', sans-serif;
+    position: absolute;
+    left: 10%;
+    
+}
+.he1{
+    font-size: 25px;
+  
+}
+
+.bbbb{
+    border: 1px solid red;
+    font-size: 20px;
+    padding: 2px 5px;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: -20px;
+    background-color: red;
+    color: white;
+}
+
+
+.signup{
+    font-family: 'Varela Round', sans-serif;
+    position: absolute;
+    left:55%;
+    margin-top: -10px;
+}
+.fiel{
+    display: flex;
+    flex-direction: column;
+}
+
+.heh{
+    text-align: center;
+    font-size: 40px;
+}
+
+.des1{
+    outline: none;
+    border: 1px solid gray;
+    font-size: 18px;
+    padding: 5px 30px;
+    border-radius: 40px;
+    margin-top: 20px;
+    height: 40px;
+    width: 370px;
+
+}
+
+.des2{
+    outline: none;
+    border: 1px solid gray;
+    font-size: 18px;
+    padding: 5px 30px;
+    border-radius: 40px;
+    margin-top: 20px;
+    height: 40px;
+    width: 370px;
+
+}
+
+.btnsub{
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    margin: auto;
+    width: 220px;
+    margin-top: 30px;
+    border-radius: 40px;
+
+    
+}
+
+.google{
+    margin: auto;
+    border: 1px solid red;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    color: white;
+    margin-top: 20px ;
+    align-items: center;
+    justify-content: first baseline;
+    width: 230px;
+    border-radius: 40px;
+
+
+}
+
+.btnsub1{
+    border: none;
+}
+
+.photodisp1{
+    width: 500px;
+    height: 450px;
+    
+}
+
+.img1{
+    position: absolute;
+    top: 110px;
+}

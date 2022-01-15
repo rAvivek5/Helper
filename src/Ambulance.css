@@ -1,0 +1,12 @@
+.det{
+    border: none;
+    font-size: 22px;
+}
+
+.call{
+    font-size: 20px;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid orangered;
+    color: white;
+    cursor: pointer;
+}

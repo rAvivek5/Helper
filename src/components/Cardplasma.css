@@ -1,0 +1,21 @@
+.cccard{
+    width: 100%;
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 150px;
+    border-radius: 10px;
+    background-color:red;
+}
+
+.ccheading {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.cnumbers{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
